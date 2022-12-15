@@ -6,3 +6,5 @@ GAs - "Group Assignments"
 HWs - "Homeworks"
 
 Labs - "Additional Programming Assignments"
+
+Personal Practice - "Extra credit/Personal practice"
