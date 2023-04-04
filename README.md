@@ -1,4 +1,4 @@
-# Data_Structures_CPP
+# COSC 2436
 
 #### Repository that contains group assignments and individual assignments that I did in Data Structures. All written in C++. Used Shell test file to test code.
 
